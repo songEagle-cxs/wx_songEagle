@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "songEagle",
+    "script": "app.js",
+    "cwd": "/home/nodejs/songEagle",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+
+    }
+  }]
+}

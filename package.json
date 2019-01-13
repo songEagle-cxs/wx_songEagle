@@ -1,0 +1,33 @@
+{
+  "name": "songeagle",
+  "version": "1.0.0",
+  "description": "a heart and soul place",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saucxs/wx_songEagle.git"
+  },
+  "keywords": [
+    "songEagle",
+    "saucxs"
+  ],
+  "author": "songEagle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saucxs/wx_songEagle/issues"
+  },
+  "homepage": "https://github.com/saucxs/wx_songEagle#readme",
+  "dependencies": {
+    "async": "^2.6.1",
+    "http-proxy-middleware": "^0.19.0",
+    "koa": "^2.6.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-json": "^2.0.2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0",
+    "mysql": "^2.16.0"
+  }
+}
