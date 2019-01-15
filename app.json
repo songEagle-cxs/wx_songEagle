@@ -20,25 +20,25 @@
         "pagePath": "pages/home/home",
         "iconPath": "/image/dept.png",
         "selectedIconPath": "/image/dept-active.png",
-        "text": ""
+        "text": "HOME"
       },
       {
         "pagePath": "pages/laboratory/laboratory",
         "iconPath": "/image/subject.png",
         "selectedIconPath": "/image/subject-active.png",
-        "text": ""
+        "text": "LABORATORY"
       },
       {
         "pagePath": "pages/archive/archive",
         "iconPath": "/image/user.png",
         "selectedIconPath": "/image/user-active.png",
-        "text": "我"
+        "text": "ARCHIVE"
       },
       {
         "pagePath": "pages/about/about",
         "iconPath": "/image/user.png",
         "selectedIconPath": "/image/user-active.png",
-        "text": "我"
+        "text": "ABOUT"
       }
     ]
   }
