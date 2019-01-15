@@ -1,6 +1,9 @@
 {
   "pages":[
     "pages/home/home",
+    "pages/laboratory/laboratory",
+    "pages/archive/archive",
+    "pages/about/about",
     "pages/index/index",
     "pages/logs/logs"
   ],
@@ -9,5 +12,35 @@
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "songEagle",
     "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "selectedColor": "#2d8cf0",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "/image/dept.png",
+        "selectedIconPath": "/image/dept-active.png",
+        "text": ""
+      },
+      {
+        "pagePath": "pages/laboratory/laboratory",
+        "iconPath": "/image/subject.png",
+        "selectedIconPath": "/image/subject-active.png",
+        "text": ""
+      },
+      {
+        "pagePath": "pages/archive/archive",
+        "iconPath": "/image/user.png",
+        "selectedIconPath": "/image/user-active.png",
+        "text": "我"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "iconPath": "/image/user.png",
+        "selectedIconPath": "/image/user-active.png",
+        "text": "我"
+      }
+    ]
   }
 }
+
